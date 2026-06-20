@@ -9,11 +9,30 @@ The application automates patient flow by prioritizing emergency cases, assignin
 This project was developed as part of the **PROG103 – Principles of Structured Programming** course at **Limkokwing University of Creative Technology – Sierra Leone**.
 
 ---
+## Table of Contents
+
+- [Overview](#overview)
+- [Problem Statement](#problem-statement)
+- [Objectives](#objectives)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+- [How the System Works](#how-the-system-works)
+- [Database](#database)
+- [Structured Programming Concepts](#structured-programming-concepts)
+- [Installation](#installation)
+- [Future Enhancements](#future-enhancements)
+- [Sustainable Development Goal](#sustainable-development-goal)
+- [Screenshots](#screenshots)
+- [License](#license)
+- [Authors](#authors)
+- [Acknowledgements](#acknowledgements)
+- [Support](#support)
+
 
 ## Problem Statement
 
 Many healthcare facilities in Sierra Leone still rely on manual systems for patient registration and queue management. These methods often result in:
-    
 
 - Long patient waiting times
 - Poor prioritization of emergency cases
@@ -242,19 +261,27 @@ This project supports **United Nations Sustainable Development Goal 3 – Good H
 
 ## Screenshots
 
-Add screenshots of the application here.
+## Application Preview
 
-Example:
+Below are screenshots showcasing the main features of the application.
 
-```text
-screenshots/
-│
-├── login.png
-├── dashboard.png
-├── patient_registration.png
-├── queue_management.png
-└── appointment_booking.png
-```
+### Landing Page
+
+The landing page introduces the platform and provides quick access to the main sections.
+
+![Landing Page](images/home.png)
+
+### Dashboard
+
+The dashboard displays key information and provides easy navigation to all system features.
+
+![Dashboard](images/dashboard.png)
+
+### Profile Page
+
+Users can view and update their personal information from the profile page.
+
+![Profile](images/profile.png)
 
 ---
 
@@ -262,8 +289,11 @@ screenshots/
 
 This project is licensed under the **MIT License**.
 
-You are free to use, modify, and distribute this software in accordance with the terms of the MIT License.
+Copyright (c) 2026 Lisa Kadija Abass Wurie, Charles Nyakeh Ensah, and Donald Sheku.
 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and its associated documentation files to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the conditions of the MIT License.
+
+See the **LICENSE** file for the complete license text.
 ---
 
 ## Authors
@@ -287,5 +317,13 @@ The authors would like to thank:
 - Limkokwing University of Creative Technology – Sierra Leone
 - The PROG103 lecturers and faculty members
 - The Python Software Foundation
-- The Tkinter and MySQL communities for thei
+- The Tkinter and MySQL communities for their documentation and open-source resources
+---
+## ⭐ Support the Project
+
+If you found this project useful or interesting, please consider giving it a **⭐ Star** on GitHub.
+
+Your support helps others discover this project and encourages us to continue improving it. Thank you for checking out our work!
+
+---
 
